@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "いとしき日々よ Album Mix",
+  "base_artist": "平井　堅",
+  "createdAt": "2026-03-08T07:39:03.028928Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いとしき日々よ",
+      "artist": "平井堅",
+      "has_synced": true,
+      "path": "select/01_いとしき日々よ_平井堅.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いとしき日々よ",
+      "artist": "Ken Hirai",
+      "has_synced": true,
+      "path": "select/02_いとしき日々よ_Ken_Hirai.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いとしき日々よ Album Mix",
+      "artist": "平井 堅",
+      "has_synced": true,
+      "path": "select/03_いとしき日々よ_Album_Mix_平井_堅.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "いとしき日々よ Album Mix",
+      "artist": "Hirai Ken",
+      "has_synced": true,
+      "path": "select/04_いとしき日々よ_Album_Mix_Hirai_Ken.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いとしき日々よ",
+      "artist": "平井 堅",
+      "has_synced": false,
+      "path": "select/pl_01_いとしき日々よ_平井_堅.txt"
+    }
+  ]
+}
